@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Text.Json;
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Please insert the amount of money to transfer:")
+    }
+}
